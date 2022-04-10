@@ -1,3 +1,3 @@
 [x] Create Trainer Model class
-[] Create Monkey Model class
+[x] Create Monkey Model class
 [] Create Database Context
